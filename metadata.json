@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Subject Replacement Labs v2.5",
+  "description": "Professional AI prompt generator for seamless subject replacement in images using Gemini 2.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
